@@ -3,7 +3,7 @@
 A lightweight Google Maps data extraction tool built for educational, academic research, and learning purposes.
 This project helps users understand how location-based data can be collected, processed, and analyzed for research, analytics, and experimentation.
 
-⚠️ Disclaimer
+⚠️ Disclaimer...
 
 This Google Maps Scraper project is developed strictly for educational and research purposes.
 
